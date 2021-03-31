@@ -1,7 +1,7 @@
 - 👋 Hi, I’m [@ProblematicToucan](https://github.com/ProblematicToucan/)
 - 👀 I’m interested in machine learning and games
 - 🌱 I am currently experimenting with ML Agents and mobile devices
-- 📫 How to reach me in [@Gamal_4ziz](https://twitter.com/Gamal_4ziz) or my [mail me](mailto:gamal.aziz1000@gmail.com)
+- 📫 Reach me at [@Gamal_4ziz](https://twitter.com/Gamal_4ziz) or my [mail me](mailto:gamal.aziz1000@gmail.com)
 <!--- - 💞️ I’m looking to collaborate on ... --->
 <!---
 ProblematicToucan/ProblematicToucan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
