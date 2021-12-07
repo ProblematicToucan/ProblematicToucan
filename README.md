@@ -1,6 +1,6 @@
 - 👋 Hi, I’m [@ProblematicToucan](https://github.com/ProblematicToucan/)
-- 👀 I’m interested in machine learning and games
-- 🌱 I am currently experimenting with ML Agents and mobile devices
+- 👀 I’m interested in machine learning and game dev
+- 🌱 I am currently developing a game for mobile devices
 - 📫 Reach me at [@Gamal_4ziz](https://twitter.com/Gamal_4ziz) or my [mail me](mailto:gamal.aziz1000@gmail.com)
 <!--- - 💞️ I’m looking to collaborate on ... --->
 <!---
