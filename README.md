@@ -1,5 +1,5 @@
 - 👋 Hi, I’m [Gamal Abdul Aziz](https://github.com/ProblematicToucan/)
-- 📫 Reach me at [@si_gamalaziz](https://twitter.com/si_gamalaziz) or my [mail me](mailto:gamal.aziz1000@gmail.com)
+- 📫 Reach me at [@si_gamalaziz](https://twitter.com/si_gamalaziz) or just [mail me](mailto:gamal.aziz1000@gmail.com)
 <!--- - 💞️ I’m looking to collaborate on ... --->
 <!---
 - 👀 I’m interested in machine learning and game dev
